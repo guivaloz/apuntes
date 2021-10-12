@@ -1,4 +1,3 @@
-
 # Fedora 34 Instalar
 
 Arrancar con Fedora Server Netinstall porque Wayland no es compatible con la tarjeta de video NVIDIA
