@@ -18,13 +18,13 @@ Para usarlo vamos a crear el directorio
     mkdir ~/.bashrc.d
     cd ~/.bashrc.d
 
-Escriba 01-welcome.sh
+Instale figlet y escriba 01-welcome.sh
 
-    # Letras grandes (requiere figlet)
-    #figlet M I N O S
+    # Letras grandes
+    figlet M I N O S
 
-    # Logotipo de la distribucion e informacion (requiere screenfetch)
-    screenfetch
+    # O el logotipo de la distribucion e informacion
+    # screenfetch
 
 Escriba 02-prompt.sh
 
